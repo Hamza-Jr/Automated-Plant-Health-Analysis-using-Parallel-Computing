@@ -114,13 +114,10 @@ Each detected plant is highlighted with a **green bounding box**.
 
 ![Output Image](./images/result.png)  
 
-#### **Performance Benchmark Graphs**  
-Graph showing the speed improvements of different parallelization techniques.  
-![Performance Graph](./images/plot.png)  
 
 ---
 
-## **📊 Performance Comparison**  
+## **4. Performance Comparison**  
 
 To evaluate the efficiency of different optimization approaches (**OpenCL, OpenMP, CUDA**) compared to the sequential implementation, we used a dataset of **306 images**.  
 Each configuration was executed **10 times**, and the **average processing time per image** was measured for performance comparison.  
