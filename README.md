@@ -29,10 +29,10 @@ This project aims to **automate plant health analysis** by processing **RGB and 
 The dataset consists of **306 RGB and NIR images** of an agricultural field with a resolution of **1296×966 pixels**.  
 Each image is processed to extract plant-specific health data.  
 📷 **Example Input RGB Image**  
-![RGB Image](./images/rgb_example.png)  
+![RGB Image](./images/RGB.png) 
 
 📷 **Example Input NIR Image**  
-![NIR Image](./images/nir_example.png)  
+![NIR Image](./images/NIR.png)  
 
 ---
 
